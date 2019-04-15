@@ -9,4 +9,4 @@
 The data wrangle act is saved in wrangle_act.ipynb file or wrangle_act.py. Due to the limited of of project requirement, only eight (8) quality issues and two (2) tidiness issues are solved.  
 A shortt quick analyzing and visualizing (three (3) insights and one (1)) wrangled data is provided at the end of wrangle_act.ipynb (wrangle_act.py) and reported in  act_report.pdf.
 
-#THANK YOU
+# THANK YOU
