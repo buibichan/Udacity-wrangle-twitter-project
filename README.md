@@ -1,4 +1,6 @@
 # Udacity-wrangle-twitter-project
+The dataset is wrangled (and analyzing and visualizing) is the tweet archive of Twitter user @dog_rates, also known as WeRateDogs
+(https://twitter.com/dog_rates). WeRateDogs is a Twitter account that rates people's dogs with a humorous comment about the dog.
 
 ## Dataset
 1. The main dataset is stored in twitter-archive-enhanced.csv file in this repository.
